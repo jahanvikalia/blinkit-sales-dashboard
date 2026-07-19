@@ -9,8 +9,6 @@ An interactive Power BI dashboard analysing 8,523 rows of Blinkit grocery sales 
 
 **Tech stack:** Power BI · DAX · Power Query (M) · Excel
 
-![Dashboard Overview](screenshots/overview.png)
-
 ## Overview
 
 This project explores sales performance across Blinkit's outlet network, with a focus on resolving data quality issues in the raw dataset and surfacing insights that challenge conventional retail assumptions.
@@ -29,8 +27,6 @@ This project explores sales performance across Blinkit's outlet network, with a 
 
 1. **Overview** — sales KPIs, revenue by outlet type, category breakdown
 2. **Deep Dive** — item visibility vs. sales scatter plot, outlet tier performance, size-adjusted revenue comparison
-
-![Deep Dive Page](screenshots/deep_dive.png)
 
 ## Files
 
