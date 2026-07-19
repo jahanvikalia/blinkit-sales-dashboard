@@ -1,4 +1,9 @@
 # Blinkit Grocery Sales Dashboard
+<img width="1285" height="732" alt="image" src="https://github.com/user-attachments/assets/3cb3bb92-ce81-43fb-ba61-dcbe7f4862ac" />
+
+<img width="1312" height="735" alt="image" src="https://github.com/user-attachments/assets/4ff67442-79b0-4fef-8060-6fb3667a50c5" />
+
+
 
 An interactive Power BI dashboard analysing 8,523 rows of Blinkit grocery sales data — covering data cleaning, outlet performance, and product visibility trends.
 
